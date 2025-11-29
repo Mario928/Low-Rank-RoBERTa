@@ -1,6 +1,6 @@
 # Low-Rank RoBERTa for AG News Classification: Achieving High Accuracy Under 1M Parameters
 
-This repository contains our implementation for the Deep Learning Spring 2025 Project, where we develop a parameter-efficient RoBERTa model using Low-Rank Adaptation (LoRA) to achieve high accuracy on the AG News text classification dataset while staying under 1 million trainable parameters.
+This repository contains our implementation for a project, where we develop a parameter-efficient RoBERTa model using Low-Rank Adaptation (LoRA) to achieve high accuracy on the AG News text classification dataset while staying under 1 million trainable parameters.
 
 ## Project Overview
 
